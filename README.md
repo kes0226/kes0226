@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 👋
 
 <!--
 **kes0226/kes0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+영남대학교 컴퓨터공학과 김은서입니다.
 
-나의 소개 페이지 작성
+## Tools & Technologies
+- **Programming Languages** : java, python
+- **framworks** : spring, pytorch
+- **Tools** : Git, Docker
+
+## How to reach me
+- **Github** : [@kes0226](https://github.com/kes0226)
+- **email** : es7837@naver.com
