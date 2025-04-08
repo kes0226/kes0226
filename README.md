@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Tools & Technologies
 - **Programming Languages** : java, python
-- **framworks** : spring, pytorch
+- **frameworks** : spring, pytorch
 - **Tools** : Git, Docker
 
 ## How to reach me
